@@ -8,7 +8,7 @@ Tendo instalado o Python3 (https://www.python.org/downloads/) e o pip (https://p
 
 ### `pip install virtualenv` ou `apt-get install python3-virtualenv`
 
-Para podermos criar um ambiente virtual.
+Para instalarmos o virtualenv, que nos permite criar um ambiente virtual.
 
 ### `virtualenv venv`
 
