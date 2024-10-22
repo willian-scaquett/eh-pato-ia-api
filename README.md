@@ -6,9 +6,13 @@ API criada para a consulta de nossa IA.
 
 Tendo instalado o Python3 (https://www.python.org/downloads/) e o pip (https://pypi.org/project/pip/), rode na pasta do projeto:
 
-### `pip install virtualenv`
+### `pip install virtualenv` ou `apt-get install python3-virtualenv`
 
 Para podermos criar um ambiente virtual.
+
+### `virtualenv venv`
+
+Para criarmos um ambiente virtual.
 
 ### `source venv/bin/activate`
 
