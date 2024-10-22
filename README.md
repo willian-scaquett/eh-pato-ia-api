@@ -4,7 +4,7 @@ API criada para a consulta de nossa IA.
 
 ## Como rodar
 
-Tendo o Python3 instalado (https://www.python.org/downloads/) e o pip(https://pypi.org/project/pip/), na pasta do projeto rode:
+Tendo instalado o Python3 (https://www.python.org/downloads/) e o pip (https://pypi.org/project/pip/), na pasta do projeto, rode:
 
 ### `pip install virtualenv`
 
