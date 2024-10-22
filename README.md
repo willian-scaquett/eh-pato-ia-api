@@ -4,7 +4,7 @@ API criada para a consulta de nossa IA.
 
 ## Como rodar
 
-Tendo instalado o Python3 (https://www.python.org/downloads/) e o pip (https://pypi.org/project/pip/), na pasta do projeto, rode:
+Tendo instalado o Python3 (https://www.python.org/downloads/) e o pip (https://pypi.org/project/pip/), rode na pasta do projeto:
 
 ### `pip install virtualenv`
 
@@ -14,7 +14,9 @@ Para podermos criar um ambiente virtual.
 
 Para entrarmos no ambiente virtual
 
-### `pip install pandas` `pip install scikit-learn` `pip install "fastapi[standard]"`
+### `pip install pandas`
+### `pip install scikit-learn`
+### `pip install "fastapi[standard]"`
 
 Para instalarmos as dependências
 
