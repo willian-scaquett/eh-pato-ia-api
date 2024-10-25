@@ -6,7 +6,7 @@ from models import ElementoParaAnalise
 
 app = FastAPI()
 
-@app.put("/verificarElemento")
+@app.post("/verificarElemento")
 def verificarElemento(elementoParaAnalise: ElementoParaAnalise)-> Dict[str, Union[str, float]]:
 
     modelo_one_hot = pd.read_pickle('modelos/modelo_onehotenc.pkl')
